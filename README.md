@@ -87,7 +87,7 @@ WHERE type = 'Movie' AND release_year = 2020;
 
 ```
 
-**Objective:** Retrieve all movies released in a specific year.
+**Objective:** Retrieve all movies released in a specific year and their Count.
 
 ### 4. Find the Top 5 Countries with the Most Content on Netflix
 
